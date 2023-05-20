@@ -1,8 +1,8 @@
 # text_transfer
 
-# create venv 
+# Create venv: In terminal write python -m venv venv_folder_name 
 
-# terminal write pip install -r requirements.txt
+# Download packages: In terminal write pip install -r requirements.txt
 
-# IF you want create icon with this file pyinstaller -F -i "icon_name.ico" file_name
+# Create icon with this python file: In terminal write pyinstaller -F -i "icon_name.ico" file_name
   
